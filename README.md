@@ -9,8 +9,8 @@
 ## 精选项目
 | 项目 | 一句话 |
 | --- | --- |
-| [隐私闸门 · Local Privacy Workbench](https://github.com/shoujikes-eng/local-privacy-workbench) | 中文优先、完全本地运行的文档/Excel 脱敏工作台——文件交给 AI 之前，先过隐私闸门 |
-| [Delivery Inspector](https://github.com/shoujikes-eng/delivery-inspector) | ERP 中立的交期风险确定性引擎，风险判定不依赖 LLM，全程可追溯 |
-| [Aftercare Copilot](https://github.com/shoujikes-eng/aftercare-copilot) | 售后工单分流 human-in-the-loop 工作台，高风险动作必须人工复核后才放行 |
-| [Commerce Ops Kit](https://github.com/shoujikes-eng/commerce-ops-kit) | 平台中立的电商经营日报与 KPI 评测，不上传客户级数据也能出日报 |
+| [隐私闸门 · Local Privacy Workbench](https://github.com/zhangjiong-dev/local-privacy-workbench) | 中文优先、完全本地运行的文档/Excel 脱敏工作台——文件交给 AI 之前，先过隐私闸门 |
+| [Delivery Inspector](https://github.com/zhangjiong-dev/delivery-inspector) | ERP 中立的交期风险确定性引擎，风险判定不依赖 LLM，全程可追溯 |
+| [Aftercare Copilot](https://github.com/zhangjiong-dev/aftercare-copilot) | 售后工单分流 human-in-the-loop 工作台，高风险动作必须人工复核后才放行 |
+| [Commerce Ops Kit](https://github.com/zhangjiong-dev/commerce-ops-kit) | 平台中立的电商经营日报与 KPI 评测，不上传客户级数据也能出日报 |
 每个项目都是同一套思路的不同落地：**确定性规则 + 模型辅助 + 人工复核 + 可审计**。
